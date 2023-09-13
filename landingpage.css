@@ -1,0 +1,378 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Pacifico&family=Poppins:ital@1&display=swap');
+
+.ig{
+    width:60px;
+    height: 60px;
+    border-radius: 100px;
+}
+
+.white{
+    background-color:antiquewhite;
+    height:100%;
+}
+
+.purple{
+    background: url("https://res.cloudinary.com/dudu5p1pv/image/upload/v1694342186/ivhwbkmsbt5viudwlwkf.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    height:900px;
+}
+
+.cot1{
+    width:65%;
+    text-align: center;
+    background-color: black;
+    opacity:0.7;
+    margin: 175px auto;
+    padding: 30px;
+    color:white;
+    border-radius: 35px;
+    font-weight: bold;
+    box-shadow: 2px 3px solid white;
+}
+
+.imgrad{
+    width:150px;
+    height: 150px;
+    border-radius: 100px;
+    margin-bottom: 15px;
+    padding:15px;
+    margin:10px;
+}
+.par{
+    padding-top: 5px;
+    font-size: 20px;
+    font-family: 'Courgette', cursive;
+    padding: 15px;
+}
+
+.but1{
+    background-color: palegoldenrod;
+    border-radius: 20px;
+    color:black;
+    padding: 15px;
+    box-shadow: 2px 3px solid white;
+    font-weight: bold;
+
+}
+
+.but1:hover{
+    transform:scale(1.03);
+    background-color: aqua;
+}
+
+.par1{
+    text-align: justify;
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif ;
+}
+
+.cot01{
+    padding: 25px;
+}
+
+.cot2{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 15px;
+}
+
+#card{
+    margin: 25px;
+    height:500px;
+    width:300px;
+    background-color:white;
+    border-radius: 20px;
+    box-shadow:1px 2px black;
+}
+
+.cardimg{
+     height: 200px;
+     background-color: blue;
+} 
+
+.why1{
+    margin:10px;
+    background:url("https://res.cloudinary.com/dudu5p1pv/image/upload/v1694342391/ppew8sngnplbbw0j32pn.jpg");
+    background-size: cover;
+    border: 1px 2px black;
+    box-shadow: 1px 2px black;
+    border-radius: 15px 15px 15px 15px;
+}
+
+.why2{
+    margin:10px;
+    background:url("https://res.cloudinary.com/dudu5p1pv/image/upload/v1694342442/aiuokabcynxybdiptubu.webp");
+    background-size: cover;
+    border: 1px 2px black;
+    box-shadow: 1px 2px black;
+    border-radius: 15px 15px 15px 15px;
+}
+
+.why3{
+    margin: 10px;
+    background:url("https://res.cloudinary.com/dudu5p1pv/image/upload/v1694342492/xnhddorpp8y2lhgorltz.jpg");
+    background-size: cover;
+    border: 1px 2px black;
+    box-shadow: 1px 2px black;
+    border-radius: 15px 15px 15px 15px;
+}
+.why4{
+    margin: 10px;
+    background:url("https://res.cloudinary.com/dudu5p1pv/image/upload/v1694342539/ud9gl5fdvuj1uuvabna7.jpg");
+    background-size: cover;
+    border: 1px 2px black;
+    box-shadow: 1px 2px black;
+    border-radius: 15px 15px 15px 15px;
+}
+
+.child1{
+    text-align: center;
+    margin: 5px;
+    margin-bottom: 15px;
+}
+
+.child11{
+    text-align: justify;
+    font-style: oblique;
+    margin:0 5px;
+}
+
+.butto{
+    margin: 25px;
+    margin-left: 100px;
+    padding:15px;
+    background-color: black;
+    color: aliceblue;
+    border-radius: 15px;
+    box-shadow: 1px 2px black;
+}
+
+#card:hover{
+    background-color: palegoldenrod;/*palegoldenrod*/
+    color:black;
+    cursor: pointer;
+    transform:scale(1.03);
+    transition:all 1s ease;
+}
+.why11{
+    margin:10px;
+    background:url("https://res.cloudinary.com/dudu5p1pv/image/upload/v1694342608/hwrzowbaegp47njesmmh.jpg");
+    background-size: cover;
+    border: 1px 2px black;
+    box-shadow: 1px 2px black;
+    border-radius: 15px 15px 15px 15px;
+}
+.why22{
+    margin:10px;
+    background:url("https://res.cloudinary.com/dudu5p1pv/image/upload/v1694342321/nhvenyx605mcvmxybzwk.webp");
+    background-size: cover;
+    border: 1px 2px black;
+    box-shadow: 1px 2px black;
+    border-radius: 15px 15px 15px 15px;
+}
+.why33{
+    margin:10px;
+    background:url("https://res.cloudinary.com/dudu5p1pv/image/upload/v1694342644/k3a0hk8zpyevnj2d2w5q.jpg");
+    background-size: cover;
+    border: 1px 2px black;
+    box-shadow: 1px 2px black;
+    border-radius: 15px 15px 15px 15px;
+}
+.why21{
+    margin:10px;
+    background:url("https://res.cloudinary.com/dudu5p1pv/image/upload/v1694342757/jld73cgx1zaopgbbdipi.jpg");
+    background-size: cover;
+    border: 1px 2px black;
+    box-shadow: 1px 2px black;
+    border-radius: 15px 15px 15px 15px;
+}
+.why23{
+    margin:10px;
+    background:url("https://res.cloudinary.com/dudu5p1pv/image/upload/v1694342832/eehmzror55h6oqjx7grc.jpg");
+    background-size: cover;
+    border: 1px 2px black;
+    box-shadow: 1px 2px black;
+    border-radius: 15px 15px 15px 15px;
+}
+
+.why231{
+    margin:10px;
+    background:url("https://res.cloudinary.com/dudu5p1pv/image/upload/v1694342878/k2txgqel0aw01ptvautd.jpg");
+    background-size: cover;
+    border: 1px 2px black;
+    box-shadow: 1px 2px black;
+    border-radius: 15px 15px 15px 15px;
+}
+.why331{
+    margin:10px;
+    background:url("https://res.cloudinary.com/dudu5p1pv/image/upload/v1694342698/zunjjfebfs4pzq87vaza.jpg");
+    background-size: cover;
+    border: 1px 2px black;
+    box-shadow: 1px 2px black;
+    border-radius: 15px 15px 15px 15px;
+}
+
+.why332{
+    margin:10px;
+    background:url("https://res.cloudinary.com/dudu5p1pv/image/upload/v1694342922/chbsz0ojz0rtyxke9q35.webp");
+    background-size: cover;
+    border: 1px 2px black;
+    box-shadow: 1px 2px black;
+    border-radius: 15px 15px 15px 15px;
+}
+.why333{
+    margin:10px;
+    background:url("https://res.cloudinary.com/dudu5p1pv/image/upload/v1694342922/chbsz0ojz0rtyxke9q35.webp");
+    background-size: cover;
+    border: 1px 2px 1px 2px black;
+    box-shadow: 1px 2px black;
+    border-radius: 15px 15px 15px 15px;
+}
+
+#card1{
+    margin: 25px;
+    height:350px;
+    width:300px;
+    background-color:white;
+    border-radius: 20px;
+    box-shadow:1px 2px black;
+}
+
+#card1:hover{
+    background-color: palegoldenrod;/*palegoldenrod*/
+    color:black;
+    cursor: pointer;
+    transform:scale(1.03);
+    transition:all 1s ease;
+}
+
+.navtext{
+    font-size: 18px;
+}
+
+.flex001{
+    margin-left:20%;
+    margin-right:5px;
+    display:flex;
+    flex-wrap: wrap;
+}
+
+.doggo{
+    width:100px;
+    height: 100px;
+    nargin:15px;
+}
+
+.cot0002{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 15px;
+}
+
+.cards00{
+    margin:5px;
+}
+.card00img{
+    width:100px;
+    height: 100px;
+}
+
+.container001{
+    margin-left:20%;
+}
+
+.cott1{
+    
+    background-color: black;
+    color:aquamarine;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+}
+.alignoo{
+    margin:15px;
+}
+.decoo{
+    text-decoration: none;
+}
+
+.head00{
+    color:brown;
+}
+
+.yolo{
+    width:50px;
+    height:50px;
+    
+}
+
+.alignooo1{
+    margin: 15px;
+}
+@media only screen and (max-width: 600px) {
+    .cot1{
+        width:75%;
+    }
+    .card{
+        width:200px;
+        margin:15px;
+    }
+
+    .alignooo1{
+        margin-right: 120px;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .cot1{
+        width:75%;
+    }
+    .card{
+        width:200px;
+        margin:15px;
+    }
+}
+
+/*#include<stdio.h>
+void quicksort(int number[25],int first,int last){
+   int i, j, pivot, temp;
+   if(first<last){
+      pivot=first;
+      i=first;
+      j=last;
+      while(i<j){
+         while(number[i]<=number[pivot]&&i<last)
+         i++;
+         while(number[j]>number[pivot])
+         j--;
+         if(i<j){
+            temp=number[i];
+            number[i]=number[j];
+            number[j]=temp;
+         }
+      }
+      temp=number[pivot];
+      number[pivot]=number[j];
+      number[j]=temp;
+      quicksort(number,first,j-1);
+      quicksort(number,j+1,last);
+   }
+}
+int main(){
+   int i, count, number[25];
+   printf("How many elements are u going to enter?: ");
+   scanf("%d",&count);
+   printf("Enter %d elements: ", count);
+   for(i=0;i<count;i++)
+   scanf("%d",&number[i]);
+   quicksort(number,0,count-1);
+   printf("Order of Sorted elements: ");
+   for(i=0;i<count;i++)
+   printf(" %d",number[i]);
+   return 0;
+}*/
